@@ -1,0 +1,56 @@
+#messages {
+    margin: 40px auto auto 43%;
+}
+
+.title {
+    display: block;
+    padding-top: 50px;
+}
+
+.titleForm {
+    display: block;
+    padding-bottom: 50px;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.value {
+    display: block;
+    padding-top: 50px;
+}
+
+.description {
+    display: block;
+    padding-top: 50px;
+}
+
+.toUser {
+    display: block;
+}
+
+.pure-form {
+    display: block;
+    margin: 200px auto auto 43%;
+}
+
+button {
+    border-radius: 15px !important;
+}
+
+#back {
+    display: block;
+    font-size: 30px;
+    margin: 50px 0 0 50px;
+    text-align: center;
+}
+
+.back-przycisk {
+    width: 225px;
+    margin-left: -85px;
+}
+
+#przelew {
+    display: block;
+    font-size: 30px;
+    margin: 50px 0 0 25px;
+}

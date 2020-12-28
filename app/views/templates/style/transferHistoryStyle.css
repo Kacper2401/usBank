@@ -1,0 +1,35 @@
+.back-przycisk {
+    width: 225px;
+}
+
+button {
+    border-radius: 15px !important;
+}
+
+.pure-form {
+    display: block;
+}
+
+#back {
+    display: block;
+    font-size: 30px;
+    margin: 50px 0 0 0;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    margin: 50px 0 0 50px;
+}
+
+table {
+    margin: 100px 0 0 920px;
+}
+
+#container{
+    padding-top: 100px;
+}
+
